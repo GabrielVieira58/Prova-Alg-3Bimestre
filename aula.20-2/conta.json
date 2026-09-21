@@ -1,9 +1,14 @@
 {
   "nome": "Gabriel",
-  "saldo": 100.0,
-  "senha": [],
+  "saldo": 1000.0,
+  "Saque Máximo": 1000,
+  "Limite Saque Atual": "",
+  "senha": 1234,
   "historico": [
     {},
-    "Depósito de R$ 100.00"
+    "Depósito de R$ 2000.00",
+    "Data do depósito: 2026-09-21 20:34:04.550179",
+    "Saque de R$ 1000.00",
+    "Data do saque: 2026-09-21 20:34:13.158533"
   ]
 }
